@@ -24,11 +24,13 @@ Ask me about fly fishing 🐟 , blugrass 🪕 , snowboarding 🏂 , hockey 🏒 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
+  ![Travis-CI](https://badgen.net/badge/icon/travis?icon=travis&label)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-302244?style=plastic&logo=bootstrap)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![GraphQL](https://badgen.net/badge/icon/graphql?icon=graphql&label)
 
 </section>
 
