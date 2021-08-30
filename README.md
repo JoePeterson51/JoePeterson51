@@ -2,7 +2,7 @@
 
 I'm a backend developer with a goal to build mission-driven software that is secure and built with a solid architecture that can improve the world. I enjoy challenging myself to learn new technologies, using my creativity as a musician, and behavior-driven design to strive to build better technology. 
 
-I enjoy fly fishing 🐟 , blugrass 🪕 , snowboarding 🏂 , hockey 🏒 , and any activities that take place in the mountains 🏔 !
+I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding 🏂 , hockey 🏒 , and any activities that take place in the mountains 🏔 !
 
 ## Connect With Me
 
