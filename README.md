@@ -16,19 +16,6 @@ Ask me about fly fishing 🐟 , blugrass 🪕 , snowboarding 🏂 , hockey 🏒 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoePeterson51&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoePeterson51&layout=compact&theme=tokyonight)
 
-<!<section align="center">
-  <div>
-    <a href="https://github.com/JoePeterson51/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=JoePeterson51&show_icons=true&theme=algolia" align="center" height="200" width="500" />
-    </a>
-  </div><br/>
-  <div>
-    <a href="https://github.com/JoePeterson51/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePeterson51&layout=compact&theme=algolia" align="center" />
-    </a>
-  </div>
-</section><br/>
-
 ## Tech
 <section align="left">
 
