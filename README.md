@@ -12,6 +12,8 @@ Ask me about fly fishing 🐟 , blugrass 🪕 , snowboarding 🏂 , hockey 🏒 
 </section>
 
 ## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/JoePeterson51/github-readme-stats)
+
 <section align="center">
   <div>
     <a href="https://github.com/JoePeterson51/github-readme-stats">
