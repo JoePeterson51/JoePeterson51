@@ -12,9 +12,14 @@ Ask me about fly fishing 🐟 , blugrass 🪕 , snowboarding 🏂 , hockey 🏒 
 </section>
 
 ## Stats
-[![Joe Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoePeterson51&show_icons=true&theme=dark)](https://github.com/JoePeterson51/github-readme-stats)
+[![Joe Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoePeterson51)](https://github.com/JoePeterson51/github-readme-stats)
 
 <section align="center">
+  <div>
+    <a href="https://github.com/JoePeterson51/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=JoePeterson51&show_icons=true&theme=algolia" align="center" height="200" width="500" />
+    </a>
+  </div><br/>
   <div>
     <a href="https://github.com/JoePeterson51/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePeterson51&layout=compact&theme=dark" align="center" />
