@@ -1,6 +1,6 @@
 # Joe Peterson (he/him)
 
-I'm a backend developer with a goal to build mission-driven software that is secure and built with a solid architecture. I enjoy clear error messages, behavior-driven design, and challenging myself to learn new technologies.
+I'm a backend developer with a goal to build mission-driven software that is secure and built with a solid architecture that can improve the world. I enjoy challenging myself to learn new technologies, using my creativity as a musician, and behavior-driven design to strive to build better technology. 
 
 Ask me about fly fishing 🐟 , blugrass 🪕 , snowboarding 🏂 , hockey 🏒 , or enjoying activities in the Colorado mountains 🏔 !
 
