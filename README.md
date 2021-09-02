@@ -14,9 +14,10 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoePeterson51&count_private=true&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoePeterson51&layout=compact&theme=tokyonight)
 ### Codewars 
 ![Codewars Stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=golishk51&card&colormode=dark_mode)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoePeterson51&layout=compact&theme=tokyonight)
+
 
 ## Tech
 <section align="left">
