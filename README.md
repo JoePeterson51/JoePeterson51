@@ -1,6 +1,6 @@
 # Joe Peterson (he/him)
 
-I'm a backend developer with a goal to build mission-driven software that is secure and built with a solid architecture that can improve the world. I enjoy challenging myself to always be learning, while using my creativity as a musician, and behavior-driven design to strive to build better technology. 
+I'm a backend developer with a goal to build secure, mission-driven software that has a solid architecture, and can improve the world. I enjoy challenging myself to always be learning, while using my creativity as a musician, and behavior-driven design with the mission to create better technology.
 
 I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding 🏂 , hockey 🏒 , and any activities that take place in the mountains 🏔 !
 
