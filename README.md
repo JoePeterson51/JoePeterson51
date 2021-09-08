@@ -7,9 +7,9 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
 ## Connect With Me
 
 <section align="left">
-  <a href="https://www.linkedin.com/in/joe-peterson-14718220b/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
-  <br>
   <a href="mailto:petersonjoe5164@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+  <br>
+  <a href="https://www.linkedin.com/in/joe-peterson-14718220b/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
 </section>
 
 ## Stats
