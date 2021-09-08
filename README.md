@@ -61,7 +61,7 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
   <div>
       <a href="https://github.com/JoePeterson51/rails-engine">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=rails-engine&theme=tokyonight"  
-        align="right" height="200" width="400"/>
+        align="center" height="200" width="400"/>
       </a>
   </div>
 </section>
