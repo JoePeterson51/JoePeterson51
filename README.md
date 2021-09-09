@@ -44,19 +44,19 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
 <section>
   <div>
       <a href="https://github.com/JoePeterson51/sweater_weather">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=sweater_weather&theme=tokyonight" /> 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=sweater_weather&theme=tokyonight" align="center" height="200" width="400" /> 
       </a>
       <a href="https://github.com/JoePeterson51/find_my_city_be">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=find_my_city_be&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=find_my_city_be&theme=tokyonight" align="center" height="200" width="400" />
       </a>
       <a href="https://github.com/JoePeterson51/black_thursday">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=black_thursday&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=black_thursday&theme=tokyonight" align="center" height="200" width="400" />
       </a>
       <a href="https://github.com/JoePeterson51/find_my_city_fe">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=find_my_city_fe&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=find_my_city_fe&theme=tokyonight" align="center" height="200" width="400" />
       </a>
       <a href="https://github.com/JoePeterson51/rails-engine">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=rails-engine&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=rails-engine&theme=tokyonight" align="center" height="200" width="400" />
       </a>
   </div>
 </section>
