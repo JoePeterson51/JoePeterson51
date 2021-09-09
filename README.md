@@ -48,6 +48,8 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
       </a>
   </div>
 </section>
+<section>
+  <div>
       <a href="https://github.com/JoePeterson51/black_thursday">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=black_thursday&theme=tokyonight" />
       </a>
