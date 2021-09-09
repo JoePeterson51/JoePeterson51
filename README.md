@@ -43,12 +43,13 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
 
 <section>
   <div>
+    <h3>API/database</h3>
       <a href="https://github.com/JoePeterson51/sweater_weather">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=sweater_weather&theme=tokyonight" align="center" height="200" width="400" /> 
       </a>
-      <a href="https://github.com/JoePeterson51/find_my_city_be">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=find_my_city_be&theme=tokyonight" align="center" height="200" width="400" />
-      </a>
+    <h3>Full Applications</h3>
+      <a href="https://github.com/JoePeterson51/hivemind-backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=hivemind-backend&theme=tokyonight" align="center" height="200" width="400" />
       <a href="https://github.com/JoePeterson51/black_thursday">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=black_thursday&theme=tokyonight" align="center" height="200" width="400" />
       </a>
@@ -57,6 +58,9 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
       </a>
       <a href="https://github.com/JoePeterson51/rails-engine">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=rails-engine&theme=tokyonight" align="center" height="200" width="400" />
+      </a>
+      <a href="https://github.com/JoePeterson51/find_my_city_be">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=find_my_city_be&theme=tokyonight" align="center" height="200" width="400" />
       </a>
   </div>
 </section>
