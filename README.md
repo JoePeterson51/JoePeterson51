@@ -44,7 +44,7 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
 <section>
   <div>
       <a href="https://github.com/JoePeterson51/sweater_weather">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=sweater_weather&theme=tokyonight"  
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=sweater_weatherggg&theme=tokyonight"  
         align="center" height="200" width="400"/>
       </a>
   </div>
