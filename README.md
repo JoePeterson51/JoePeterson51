@@ -43,11 +43,9 @@ I enjoy fly fishing 🐟 , playing and listening to blugrass 🪕 , snowboarding
 
 <section>
   <div>
-    <h3>API/database</h3>
       <a href="https://github.com/JoePeterson51/sweater_weather">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=sweater_weather&theme=tokyonight" align="center" height="200" width="400" /> 
       </a>
-    <h3>Full Applications</h3>
       <a href="https://github.com/JoePeterson51/hivemind-backend">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoePeterson51&repo=hivemind-backend&theme=tokyonight" align="center" height="200" width="400" />
       <a href="https://github.com/JoePeterson51/black_thursday">
